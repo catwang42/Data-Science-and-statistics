@@ -1,0 +1,6 @@
+mnist/.idea/*
+mnist/__pycache__/*
+mnist/Datasets/*
+
+sentiment_analysis/.idea/*
+sentiment_analysis/__pycache__/*
